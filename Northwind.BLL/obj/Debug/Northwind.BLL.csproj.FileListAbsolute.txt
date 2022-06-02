@@ -1,0 +1,33 @@
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO\Northwind.BLL\bin\Debug\Northwind.BLL.dll
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO\Northwind.BLL\bin\Debug\Northwind.BLL.pdb
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO\Northwind.BLL\obj\Debug\Northwind.BLL.csproj.AssemblyReference.cache
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO\Northwind.BLL\obj\Debug\Northwind.BLL.csproj.CoreCompileInputs.cache
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO\Northwind.BLL\obj\Debug\Northwind.BLL.dll
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO\Northwind.BLL\obj\Debug\Northwind.BLL.pdb
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO\Northwind.BLL\bin\Debug\Northwind.DAL.dll
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO\Northwind.BLL\bin\Debug\Northwind.DAL.pdb
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO\Northwind.BLL\obj\Debug\Northwind.BLL.csproj.CopyComplete
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO\Northwind.BLL\bin\Debug\EntityFramework.dll
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO\Northwind.BLL\bin\Debug\Northwind.DAL.dll.config
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO\Northwind.BLL\bin\Debug\EntityFramework.xml
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO\Northwind.BLL\bin\Debug\Northwind.BLL.dll.config
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO\Northwind.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO\Northwind.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO - Kopya\Northwind.BLL\obj\Debug\Northwind.BLL.csproj.AssemblyReference.cache
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO - Kopya\Northwind.BLL\obj\Debug\Northwind.BLL.csproj.CoreCompileInputs.cache
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO - Kopya\Northwind.BLL\obj\Debug\Northwind.BLL.dll
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO - Kopya\Northwind.BLL\obj\Debug\Northwind.BLL.pdb
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO - Kopya\Northwind.BLL\bin\Debug\Northwind.BLL.dll.config
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO - Kopya\Northwind.BLL\bin\Debug\Northwind.BLL.dll
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO - Kopya\Northwind.BLL\bin\Debug\Northwind.BLL.pdb
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO - Kopya\Northwind.BLL\bin\Debug\EntityFramework.dll
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO - Kopya\Northwind.BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO - Kopya\Northwind.BLL\bin\Debug\Northwind.DAL.dll
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO - Kopya\Northwind.BLL\bin\Debug\Northwind.DTOS.dll
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO - Kopya\Northwind.BLL\bin\Debug\Northwind.DAL.pdb
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO - Kopya\Northwind.BLL\bin\Debug\Northwind.DAL.dll.config
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO - Kopya\Northwind.BLL\bin\Debug\Northwind.DTOS.pdb
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO - Kopya\Northwind.BLL\bin\Debug\Northwind.DTOS.dll.config
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO - Kopya\Northwind.BLL\bin\Debug\EntityFramework.xml
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO - Kopya\Northwind.BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\gamze\OneDrive\Masaüstü\C# ÖDEVLERİ\PROJE ÖDEVLERİ DOSYASI\DTO PROJE\Northwind_DTO - Kopya\Northwind.BLL\obj\Debug\Northwind.BLL.csproj.CopyComplete
